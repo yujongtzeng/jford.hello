@@ -1,7 +1,5 @@
 # Hello Page
 
-## PCDE-Activity 9.1
-[PCDE-Activity 9.1](https://yujongtzeng.github.io/PCDE-Activity-9.1/)
 
 <img src="https://raw.githubusercontent.com/jlord/forkngo/gh-pages/badges/cobalt.png" width="200">
 
